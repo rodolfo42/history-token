@@ -43,7 +43,7 @@ How the application actually gets to the URL hash remains outside this API's sco
 
 It was originally developed to be used in GWT apps, as it's code is 100% translatable and can be used in the client-side of GWT.
 
-Características:
+Features:
 + provides an immutable object: <code>HistoryToken</code>
 + command & parameters abstraction
 + deals with leading and trailing slashes
